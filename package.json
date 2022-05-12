@@ -23,7 +23,7 @@
     "gatsby-plugin-layout": "^1.1.21",
     "gatsby-plugin-local-search": "^1.1.1",
     "gatsby-plugin-manifest": "^2.2.41",
-    "gatsby-plugin-mdx": "^1.0.73",
+    "gatsby-plugin-mdx": "^1.10.1",
     "gatsby-plugin-offline": "^3.0.27",
     "gatsby-plugin-page-creator": "^2.1.37",
     "gatsby-plugin-page-transitions": "^1.0.8",
